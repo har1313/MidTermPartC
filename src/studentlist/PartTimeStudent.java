@@ -9,5 +9,5 @@ package studentlist;
  * @author ADMIN
  */
 public class PartTimeStudent {
-    
+    // Part-Time-Student
 }
