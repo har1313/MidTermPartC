@@ -22,6 +22,7 @@ public class Student {
     }
 // yo buddy, this shit is getting awesome day by day......
     // dayuummmmmm, super cooolllll mannnn!!!!!!!!
+    // duhhhh, pull is easy yet very risky dude!!!!
     public String getsID() {
         return sID;
     }
