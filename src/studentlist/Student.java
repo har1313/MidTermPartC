@@ -21,6 +21,7 @@ public class Student {
         this.sname = sname;
     }
 // yo buddy, this shit is getting awesome day by day......
+    // dayuummmmmm, super cooolllll mannnn!!!!!!!!
     public String getsID() {
         return sID;
     }
