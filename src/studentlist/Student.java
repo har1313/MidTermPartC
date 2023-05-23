@@ -20,7 +20,7 @@ public class Student {
     public void setSname(String sname) {
         this.sname = sname;
     }
-
+// yo buddy, this shit is getting awesome day by day......
     public String getsID() {
         return sID;
     }
